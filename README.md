@@ -31,7 +31,7 @@
 # Quick start
 
 1.  Make sure that you have [Docker](https://www.docker.com/products/docker-engine) installed
-2.  Clone this repo using `git clone https://github.com/bhidapa/heltin.git` and cd into it
+2.  Clone this repo and cd into it
 3.  Run `docker compose up` to start the stack<br>
     - Postgres database at: **[postgres://localhost:54321/heltin](postgres://localhost:54321/heltin)**
     - GraphQL endpoint at: **[http://localhost:50000/graphql](http://localhost:50000/graphql)**<br>
